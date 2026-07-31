@@ -22,14 +22,14 @@ Employee attrition is one of the biggest challenges faced by organizations. This
 
 ## 🛠️ Tech Stack
 
-- **Excel** – Data Cleaning & Exploratory Data Analysis (EDA)
-- **SQL** – Business Queries & KPI Analysis
-- **Power BI** – Interactive Dashboard & Data Visualization
-- **Python** – Data Preprocessing & Machine Learning
+- **Excel** – Initial Data Review & Basic Formatting
+- **SQL (PostgreSQL)** – Business Data Analysis
+- **Power BI** – Dashboard Development & Data Visualization
+- **Python** – Data Preprocessing, Exploratory Data Analysis (EDA), Machine Learning & Model Evaluation
 - **Pandas**
 - **NumPy**
-- **Scikit-learn**
 - **Matplotlib**
+- **Scikit-learn**
 - **Jupyter Notebook**
 
 ---
@@ -43,19 +43,19 @@ HR-Analytics-and-Employee-Attrition-Prediction
 │   ├── HR_Analytics.csv
 │   └── cleaned_hr_data.csv
 │
-├── Data_Preprocessing
-│   ├── Data_Cleaning.xlsx
-│   └── EDA.xlsx
+├── Data_preprocessing
+│   ├── HR_data_cleaning.ipynb
+│   └── EDA_HR_data.ipynb
 │
 ├── SQL_Analysis
-│   └── HR_Analytics.sql
+│   └── Hr_analytics.sql
 │
-├── PowerBI_Dashboard
-│   ├── HR_Analytics_Dashboard.pbix
+├── PowerBI_dashboard
+│   ├── HR_Analytics_Dashboard(1).pbix
 │   └── Dashboard.png
 │
 ├── Machine_Learning
-│   └── Employee_Attrition_Prediction.ipynb
+│   └── Employee_Attrition_Prediction(1).ipynb
 │
 └── README.md
 ```
@@ -79,7 +79,7 @@ HR-Analytics-and-Employee-Attrition-Prediction
 
 # 📊 Dashboard Preview
 ```
-![Dashboard](PowerBI_Dashboard/Dashboard.png)
+![Dashboard](PowerBI_dashboard/Dashboard.png)
 ```
 
 ---
