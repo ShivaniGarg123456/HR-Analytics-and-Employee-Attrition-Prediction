@@ -76,14 +76,9 @@ HR-Analytics-and-Employee-Attrition-Prediction
 - Work-Life Balance Analysis
 
 ---
-
-# 📊 Dashboard Preview
-```
-
+## 📊 Dashboard Preview
 
 ![Dashboard](PowerBI_Dashboard./Dashboard.png)
-```
-
 ---
 
 # 🤖 Machine Learning
