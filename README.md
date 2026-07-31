@@ -62,19 +62,24 @@ HR-Analytics-and-Employee-Attrition-Prediction
 
 ---
 
-# 📈 Dashboard KPIs
+## 📊 Dashboard Highlights
 
+### KPIs
 - Total Employees
 - Employees Left
 - Attrition Rate
 - Average Monthly Income
 - Average Job Satisfaction
-- Department-wise Attrition
-- Age Group Analysis
-- Gender-wise Attrition
-- Overtime Analysis
-- Work-Life Balance Analysis
+- Total Departments
 
+### Visualizations
+- Attrition by Department
+- Attrition by Age Group
+- Attrition by Gender
+- Attrition by Job Satisfaction
+- Attrition by Work-Life Balance
+- Attrition by Overtime
+- Department-wise Summary Table
 ---
 ## 📊 Dashboard Preview
 
